@@ -9,5 +9,6 @@ Engineering student at CentraleSupélec and McGill University, interested in AI 
 - [RadarScenes](https://github.com/gaiaflaviamezaib/RadarScenes): classification of automotive radar detections
 - [mnist-ml-pipeline](https://github.com/gaiaflaviamezaib/mnist-ml-pipeline): digit classification from PCA and logistic regression to CNNs, in PyTorch and TensorFlow
 - [Robotics-Bootcamp](https://github.com/gaiaflaviamezaib/Robotics-Bootcamp): Raspberry Pi robot with line following, grid navigation and obstacle avoidance
+- [data-visualization-in-r](https://github.com/gaiaflaviamezaib/data-visualization-in-r) and [building-figures-inkscape](https://github.com/gaiaflaviamezaib/building-figures-inkscape): practice from the McGill MiCM workshops on plotting in R and building figures
 
 [LinkedIn](https://www.linkedin.com/in/ga%C3%AFa-meza%C3%AFb-boti-64a955327)
